@@ -2,6 +2,7 @@
 def speak_to_grandma(string)
   phrase.uppercase?
   if false then return "HUH? SPEAK UP, SONNY!"
+  if true then return "NO, NOT SINCE 1938!"
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
